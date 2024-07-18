@@ -14,6 +14,8 @@ int main(int argc, char const *argv[])
         {
             cout<<"Not a Prime"<<endl;
         }
+      
+        
         
         i=i+1;
       
